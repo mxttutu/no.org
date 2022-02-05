@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Website Page Design - Yusnan Adi Kusuma</title>
+        <title>NO - The OS language by Mxttutu.inc, used by devlopers all across the world</title>
         <link rel="stylesheet" href="bubble.css">
     </head>
 <body>
