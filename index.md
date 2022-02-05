@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>NO - The OS language by Mxttutu.inc, used by devlopers all across the world</title>
@@ -12,9 +11,7 @@
         <button type="button">Maoxiaotu</button>
     </div>
     <div class="content">
-        <small>Welcome to our</small>
-        <h1>programming world<br>The Mxttutu.inc</h1>
-        <button type="button">  USING VGFrZSBhIFRvdXI</button>
+
 		  <a href='https://uploads.strikinglycdn.com/files/eb183d48-409c-485d-8a8b-de68803a40a4/Launcher.zip'>
                                   <button class="button">
     </div>
